@@ -6,6 +6,9 @@ Python
 YOLOv26
 PyTorch
 Computer Vision
+
+
+
 📋 Overview
 
 This repository contains the implementation of a real-time AI surveillance framework that integrates object detection, temporal validation, multi-source data fusion, and vision-language scene interpretation. The system supports heterogeneous sensing platforms including CCTV cameras, drones, and mobile robotic units...
